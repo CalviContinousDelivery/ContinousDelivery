@@ -16,6 +16,8 @@ namespace CustomConsole
             //changes after installing visual studio tools for GIT
 
             //push to remote
+
+            //push to remote again
         }
     }
 }
