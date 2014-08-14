@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLibrary", "CustomLibrary\CustomLibrary.csproj", "{0A513EE1-850D-4178-B3E1-BD6DBE99D8C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConsole", "CustomConsole\CustomConsole.csproj", "{1CD1141A-51B9-4098-9BE4-FB93D7ABDD5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLibraryTest", "CustomLibraryTest\CustomLibraryTest.csproj", "{029FAD16-1E0A-4F3B-AF42-873D5D67F994}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{0A513EE1-850D-4178-B3E1-BD6DBE99D8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A513EE1-850D-4178-B3E1-BD6DBE99D8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A513EE1-850D-4178-B3E1-BD6DBE99D8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD1141A-51B9-4098-9BE4-FB93D7ABDD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD1141A-51B9-4098-9BE4-FB93D7ABDD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD1141A-51B9-4098-9BE4-FB93D7ABDD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD1141A-51B9-4098-9BE4-FB93D7ABDD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029FAD16-1E0A-4F3B-AF42-873D5D67F994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029FAD16-1E0A-4F3B-AF42-873D5D67F994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029FAD16-1E0A-4F3B-AF42-873D5D67F994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029FAD16-1E0A-4F3B-AF42-873D5D67F994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
