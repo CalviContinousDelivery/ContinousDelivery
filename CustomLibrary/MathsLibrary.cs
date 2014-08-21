@@ -27,6 +27,7 @@ namespace CustomLibrary
         public int Divide()
         {
             string s = string.Empty;
+            string k = string.Empty;
             return 0;
         }
 
