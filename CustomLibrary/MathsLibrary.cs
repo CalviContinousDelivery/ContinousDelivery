@@ -22,12 +22,6 @@ namespace CustomLibrary
         public int Multiply(int p1, int p2)
         {
             return p1 * p2;
-        }
-
-        public int Divide()
-        {
-            string s = string.Empty;
-            return 0;
-        }
+        }        
     }
 }
