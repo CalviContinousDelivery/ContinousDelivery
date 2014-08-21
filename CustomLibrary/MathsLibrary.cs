@@ -23,5 +23,11 @@ namespace CustomLibrary
         {
             return p1 * p2;
         }
+
+        public int Divide()
+        {
+            string s = string.Empty;
+            return 0;
+        }
     }
 }
