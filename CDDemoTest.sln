@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConsole", "CustomCons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLibraryTest", "CustomLibraryTest\CustomLibraryTest.csproj", "{029FAD16-1E0A-4F3B-AF42-873D5D67F994}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsWebsite", "MathsWebsite\MathsWebsite.csproj", "{41EF79E4-1E40-45FE-8E2F-080910C9A825}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{029FAD16-1E0A-4F3B-AF42-873D5D67F994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{029FAD16-1E0A-4F3B-AF42-873D5D67F994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{029FAD16-1E0A-4F3B-AF42-873D5D67F994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EF79E4-1E40-45FE-8E2F-080910C9A825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EF79E4-1E40-45FE-8E2F-080910C9A825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EF79E4-1E40-45FE-8E2F-080910C9A825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EF79E4-1E40-45FE-8E2F-080910C9A825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
