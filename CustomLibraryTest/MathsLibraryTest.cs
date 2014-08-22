@@ -16,18 +16,21 @@ namespace CustomLibraryTest
         }
 
         [TestMethod]
+        [TestCategory("CDVM")]
         public void Add_Test()
         {
             Assert.AreEqual(7, math.Add(5, 2));
         }
 
         [TestMethod]
+        [TestCategory("CDVM")]
         public void Subtract_Test()
         {
             Assert.AreEqual(3, math.Subtract(5, 2));
         }
 
         [TestMethod]
+        [TestCategory("Gautam")]
         public void Multiply_Test()
         {
             Assert.AreEqual(10, math.Multiply(5, 2));
