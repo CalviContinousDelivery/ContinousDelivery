@@ -23,15 +23,6 @@ namespace CustomLibrary
         {
             return p1 * p2;
         }
-
-        public int Divide(int p1, int p2)
-        {
-            return p1 * p2;
-        }
-
-        public int ahjsd(int p1, int p2)
-        {
-            return p1 * p2;
-        } 
+       
     }
 }
