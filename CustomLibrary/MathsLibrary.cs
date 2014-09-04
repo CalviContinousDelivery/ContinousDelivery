@@ -21,6 +21,7 @@ namespace CustomLibrary
 
         public int Multiply(int p1, int p2)
         {
+            //added comment
             return p1 * p2;
         }
        
