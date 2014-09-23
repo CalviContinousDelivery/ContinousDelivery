@@ -24,6 +24,10 @@ namespace CustomLibrary
             //added comment
             return p1 * p2;
         }
-       
+
+        public void Feature1()
+        {
+            //this should be only in feature 1 and not in master
+        }
     }
 }
