@@ -75,6 +75,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Feature1.cs" />
     <Compile Include="MathsPage.aspx.cs">
       <DependentUpon>MathsPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
